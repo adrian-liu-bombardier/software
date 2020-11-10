@@ -6,7 +6,7 @@ Because of several drawbacks of previous architecture - Monolithic Architecture:
 
 1. Unreliable: 
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 if part of service is down, entire services are down. impact the availability of entire application
 
@@ -18,7 +18,7 @@ if part of service is down, entire services are down. impact the availability of
 
 ## What is Microservice?
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 Each component implement single business capability
 
@@ -26,11 +26,11 @@ They will communicate through APIs
 
 ### Example:
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 
 
@@ -40,7 +40,7 @@ API Gateway: forward the request from clients to the corresponding services
 
 ## Features of Microservice Architecture
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 
 
@@ -51,7 +51,7 @@ API Gateway: forward the request from clients to the corresponding services
 
 ## Advantages
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 
 

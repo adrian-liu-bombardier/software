@@ -2,11 +2,11 @@
 
 ## What is Docker?
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ## What is Docker Images and Containers?
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 Get image:
 
@@ -22,19 +22,19 @@ docker run -it ...
 
 
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ## What is Docker Compose?
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ## Docker in Microservices
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ### Advantages
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 
 
