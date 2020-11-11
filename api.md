@@ -14,7 +14,7 @@ REST Style: Create, Read, Update, Delete
 
 ## API in Microservice
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 
 
